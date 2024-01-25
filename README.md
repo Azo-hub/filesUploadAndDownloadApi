@@ -1,5 +1,5 @@
 # FilesUploadandDownloadApi - Api development :white_check_mark:
-This project was built with Spring Boot as a way of learning and testing some Spring Framework technologies. It is the backend logic to filesUploadAndDownloadAngularFrontend. It is the logic to download and upload files from and to local machine.
+This project was built with Spring Boot. It is the backend logic to filesUploadAndDownloadAngularFrontend. It is the logic to download and upload files from and to local machine.
 ## Index :pushpin:
 - [About the Project](https://github.com/Azo-hub/filesUploadAndDownloadApi#about-the-project-link)
 * [License](https://github.com/Azo-hub/filesUploadAndDownloadApi#license-memo)
